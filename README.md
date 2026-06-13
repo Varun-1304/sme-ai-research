@@ -19,3 +19,9 @@ This software is the practical implementation of my final-year Research Honours 
 * **Data Processing:** Pandas, NumPy
 * **Deployment:** Streamlit Community Cloud (Serverless)
 
+##This software was developed as part of the empirical research paper:
+
+"Empirical Analysis of AI Adoption in SMEs: Proposing a Strategic Framework and Readiness Scorecard"
+Presented at the 2026 IEEE International Conference on Emerging Synergy Science and Technology (ICESST).
+
+The underlying logic engine is strictly based on primary survey data collected from 31 C-level decision-makers, ensuring the recommendations are grounded in real-world market constraints.
